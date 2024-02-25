@@ -1,0 +1,23 @@
+<template>
+    <div
+        class="hero min-h-full" 
+        style="background-image: url(https://daisyui.com/images/stock/photo-1507358522600-9f71e620c44e.jpg);"
+    >
+        <div class="hero-overlay bg-opacity-60"></div>
+        <div class="hero-content text-center text-neutral-content">
+            <div class="max-w-md">
+                <h1 class="mb-5 text-5xl font-bold font-primary">Hello there</h1>
+                <p class="mb-5 font-secondary">Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem quasi. In deleniti eaque aut repudiandae et a id nisi.</p>
+                <button class="btn btn-primary font-primary">Get Started</button>
+            </div>
+        </div>
+    </div>
+    <!-- <img
+        src="https://placeholder.pics/svg/640x480"
+        alt="Placeholder"
+        loading="lazy"
+        width="640"
+        height="480"
+        title="Placeholder"
+    /> -->
+</template>
