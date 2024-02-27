@@ -2,11 +2,11 @@
     <section class="h-screen">
         <HomeSectionHero />
     </section>
-    <section>
-        <HomeSectionAbout class="min-h-screen"/>
+    <section class="h-screen">
+        <HomeSectionAbout />
     </section>
-    <section>
-        <HomeSectionContact class="min-h-screen"/>
+    <section class="h-screen">
+        <HomeSectionContact />
     </section>
 </template>
 
