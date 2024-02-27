@@ -41,6 +41,7 @@ export default defineNuxtConfig({
     modules: [
         '@nuxtjs/tailwindcss',
         '@vueuse/motion/nuxt',
-        '@nuxtjs/sitemap'
+        '@nuxtjs/sitemap',
+        'nuxt-jsonld'
     ]
 });
